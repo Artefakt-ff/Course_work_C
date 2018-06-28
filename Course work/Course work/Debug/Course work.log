@@ -1,0 +1,18 @@
+﻿Сборка начата 30.05.2018 19:19:47.
+     1>Проект "C:\Users\Notebook\Desktop\Курсовая для Славы, Андрея, Никиты-20180527T114517Z-001\Курсовая для Славы, Андрея, Никиты\Course work\Course work\Course work\Course work.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Programmes\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Course work.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\Programmes\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Notebook\Desktop\Курсовая для Славы, Андрея, Никиты-20180527T114517Z-001\Курсовая для Славы, Андрея, Никиты\Course work\Course work\Debug\Course work.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Notebook\Desktop\Курсовая для Славы, Андрея, Никиты-20180527T114517Z-001\Курсовая для Славы, Андрея, Никиты\Course work\Course work\Debug\Course work.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Notebook\Desktop\Курсовая для Славы, Андрея, Никиты-20180527T114517Z-001\Курсовая для Славы, Андрея, Никиты\Course work\Course work\Debug\Course work.lib" /MACHINE:X86 Debug\Andrew.obj
+         "Debug\Course work.obj"
+         Debug\main.obj
+         Debug\Nikita.obj
+         Debug\Slava.obj
+         Debug\stdafx.obj
+         Course work.vcxproj -> C:\Users\Notebook\Desktop\Курсовая для Славы, Андрея, Никиты-20180527T114517Z-001\Курсовая для Славы, Андрея, Никиты\Course work\Course work\Debug\Course work.exe
+     1>Сборка проекта "C:\Users\Notebook\Desktop\Курсовая для Славы, Андрея, Никиты-20180527T114517Z-001\Курсовая для Славы, Андрея, Никиты\Course work\Course work\Course work\Course work.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.12

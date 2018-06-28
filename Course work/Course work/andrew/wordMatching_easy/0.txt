@@ -1,0 +1,9 @@
+1) кролик
+2) морковь
+3) за€ц
+carrot
+bigRabbit
+rabbit
+2
+3
+1
